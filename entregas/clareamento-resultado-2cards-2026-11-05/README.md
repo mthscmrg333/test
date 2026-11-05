@@ -1,5 +1,7 @@
 # Clareamento dental — resultado em foco
 
+**[Versão refeita com acabamento editorial — baixar V2](../clareamento-resultado-2cards-v2-2026-11-05/)**
+
 Dois cards em 1080 × 1350 (4:5), com texto mínimo e aproximadamente 90% da área dedicada à fotografia. Paleta e tipografia conforme o manual da marca.
 
 ![Prévia dos dois cards](./Previa-carrossel.png)
